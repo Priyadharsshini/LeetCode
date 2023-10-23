@@ -12,3 +12,6 @@ func twoSum(nums []int, target int) []int {
     }
     return []int{-1,-1} 
 }
+
+//Time Complexity : O(n)
+No extra space complexity
